@@ -30,3 +30,4 @@ jobs:
         CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
       run: |
         nohup python bot.py &
+ 
